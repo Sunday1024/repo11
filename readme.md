@@ -7,3 +7,5 @@ add some content to hello.txt
 123456
 
 ghy
+
+abc123456
